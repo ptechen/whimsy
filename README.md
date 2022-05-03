@@ -1,0 +1,2 @@
+# whimsy
+A chat platform.
